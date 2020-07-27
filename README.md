@@ -25,4 +25,6 @@ DevOps is the combination of cultural philosophies, practices, and tools that in
 - Cross-skilling and self-improvement
 - Collaborative working
 - Respect from senior management
+- Reduces project failures
+- Allows for quicker deployment into the real world
 
