@@ -18,13 +18,13 @@ DevOps is the combination of cultural philosophies, practices, and tools that in
 
 
 ### Benefits of DevOps
-- Improved operational support and faster fixes
+- Improved operational support and faster fixes (speed)
 - Good processes across IT and teams, including automation
 - Increased team flexibility and agility
 - Happier, more engaged teams
 - Cross-skilling and self-improvement
-- Collaborative working
+- Improved collaborative working
 - Respect from senior management
 - Reduces project failures
-- Allows for quicker deployment into the real world
+- Allows for quicker deployment into the real world (rapid delivery)
 
